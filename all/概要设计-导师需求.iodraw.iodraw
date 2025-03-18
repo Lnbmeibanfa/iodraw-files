@@ -13,6 +13,12 @@
         <mxCell id="-9bklF_lCUTIcipwJlBp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9bklF_lCUTIcipwJlBp-1" target="-9bklF_lCUTIcipwJlBp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-9bklF_lCUTIcipwJlBp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9bklF_lCUTIcipwJlBp-1" target="-9bklF_lCUTIcipwJlBp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9bklF_lCUTIcipwJlBp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9bklF_lCUTIcipwJlBp-1" target="-9bklF_lCUTIcipwJlBp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-9bklF_lCUTIcipwJlBp-1" value="导师需求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7A9EFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="245" width="120" height="60" as="geometry" />
         </mxCell>
