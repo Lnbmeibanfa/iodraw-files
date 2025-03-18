@@ -13,8 +13,8 @@
         <mxCell id="CzuHFW5bsoYzOki-yd0l-4" value="密码修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-5" value="密码修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="400" height="30" as="geometry" />
+        <mxCell id="CzuHFW5bsoYzOki-yd0l-5" value="首页论文信息浏览和筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
