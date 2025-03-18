@@ -22,7 +22,7 @@
         <mxCell id="CzuHFW5bsoYzOki-yd0l-7" value="在线沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-8" value="在线沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CzuHFW5bsoYzOki-yd0l-8" value="选择论文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
