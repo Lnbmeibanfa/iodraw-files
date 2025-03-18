@@ -1,48 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/30 SLBVPV/64-bit" version="24.7.17">
-  <diagram name="第 1 页" id="BkLMuoZJOkNJKuYo6xd8">
+  <diagram name="第 1 页" id="1Ku9rBVvSnbjSvjqVHi_">
     <mxGraphModel dx="1626" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzuHFW5bsoYzOki-yd0l-2" target="CzuHFW5bsoYzOki-yd0l-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzuHFW5bsoYzOki-yd0l-2" target="CzuHFW5bsoYzOki-yd0l-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzuHFW5bsoYzOki-yd0l-2" target="CzuHFW5bsoYzOki-yd0l-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzuHFW5bsoYzOki-yd0l-2" target="CzuHFW5bsoYzOki-yd0l-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzuHFW5bsoYzOki-yd0l-2" target="CzuHFW5bsoYzOki-yd0l-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzuHFW5bsoYzOki-yd0l-2" target="CzuHFW5bsoYzOki-yd0l-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-2" value="学生功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#73FFBE;" vertex="1" parent="1">
-          <mxGeometry x="50" y="300" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-3" value="个人信息修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-4" value="密码修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-5" value="首页论文信息浏览和筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-6" value="收藏论文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-7" value="在线沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CzuHFW5bsoYzOki-yd0l-8" value="选择论文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="400" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
