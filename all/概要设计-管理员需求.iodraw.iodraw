@@ -10,8 +10,11 @@
         <mxCell id="o7o6h9MopIzj-VrrFPFp-2" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o7o6h9MopIzj-VrrFPFp-3" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="410" height="30" as="geometry" />
+        <mxCell id="o7o6h9MopIzj-VrrFPFp-3" value="论文管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7o6h9MopIzj-VrrFPFp-4" value="论文管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
