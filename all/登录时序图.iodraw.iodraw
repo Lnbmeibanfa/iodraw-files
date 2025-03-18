@@ -10,7 +10,7 @@
         <mxCell id="QPVXIYSMg2EzAA07MYOD-2" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QPVXIYSMg2EzAA07MYOD-3" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
+        <mxCell id="QPVXIYSMg2EzAA07MYOD-3" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPVXIYSMg2EzAA07MYOD-4" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
@@ -19,10 +19,10 @@
         <mxCell id="QPVXIYSMg2EzAA07MYOD-5" value="User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
           <mxGeometry x="50" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QPVXIYSMg2EzAA07MYOD-6" value="Brower" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
+        <mxCell id="QPVXIYSMg2EzAA07MYOD-6" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
           <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QPVXIYSMg2EzAA07MYOD-7" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
+        <mxCell id="QPVXIYSMg2EzAA07MYOD-7" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
           <mxGeometry x="430" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPVXIYSMg2EzAA07MYOD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e5f6ff;" vertex="1" parent="1">
