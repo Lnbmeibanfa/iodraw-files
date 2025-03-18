@@ -19,6 +19,9 @@
         <mxCell id="-9bklF_lCUTIcipwJlBp-5" value="实时沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="350" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-9bklF_lCUTIcipwJlBp-6" value="允许同学选择论文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="350" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
