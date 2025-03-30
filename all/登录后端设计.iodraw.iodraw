@@ -33,10 +33,10 @@
           <mxGeometry x="200" y="170" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-31" value="student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="50" height="190" as="geometry" />
+          <mxGeometry x="200" y="390" width="50" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="qUGDT7jTcO5gCMjLJ8IM-32" value="student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="670" width="50" height="190" as="geometry" />
+        <mxCell id="qUGDT7jTcO5gCMjLJ8IM-32" value="teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="50" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
