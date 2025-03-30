@@ -16,7 +16,10 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-6" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="670" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-7" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sA8ogs1a-yhf0ndWMw0-7" target="-sA8ogs1a-yhf0ndWMw0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-7" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="670" height="50" as="geometry" />
         </mxCell>
       </root>
