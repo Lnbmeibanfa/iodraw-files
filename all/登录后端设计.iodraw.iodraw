@@ -32,8 +32,8 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-7" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="670" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-12" value="ROLE？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
