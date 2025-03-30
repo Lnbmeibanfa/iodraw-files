@@ -41,6 +41,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="500" as="sourcePoint" />
             <mxPoint x="650" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="380" />
+              <mxPoint x="415" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-31" value="得到数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-sA8ogs1a-yhf0ndWMw0-30">
