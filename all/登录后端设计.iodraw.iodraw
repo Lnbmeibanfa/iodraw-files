@@ -43,13 +43,8 @@
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-15" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="30" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="qUGDT7jTcO5gCMjLJ8IM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="qUGDT7jTcO5gCMjLJ8IM-18" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="235" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-18" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="30" height="280" as="geometry" />
+          <mxGeometry x="740" y="260" width="30" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
