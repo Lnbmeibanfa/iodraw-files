@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-25" value="router" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="505" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="595" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-26" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="320" height="30" as="geometry" />
@@ -33,7 +33,7 @@
           <mxGeometry x="200" y="180" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-31" value="student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="470" width="50" height="290" as="geometry" />
+          <mxGeometry x="200" y="470" width="50" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-32" value="teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="840" width="50" height="240" as="geometry" />
