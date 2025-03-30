@@ -91,17 +91,6 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-21" value="验证用户名密码是否正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="400" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="551" as="sourcePoint" />
-            <mxPoint x="670" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-27" value="查询数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-sA8ogs1a-yhf0ndWMw0-26">
-          <mxGeometry x="-0.3957" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
