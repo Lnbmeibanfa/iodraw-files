@@ -16,20 +16,6 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-6" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="490" width="670" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-sA8ogs1a-yhf0ndWMw0-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="120" />
-              <mxPoint x="280" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-9" value="post请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-sA8ogs1a-yhf0ndWMw0-8">
-          <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-7" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="670" height="50" as="geometry" />
         </mxCell>
