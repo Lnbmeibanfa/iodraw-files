@@ -37,7 +37,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sA8ogs1a-yhf0ndWMw0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.769;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-sA8ogs1a-yhf0ndWMw0-5" target="-sA8ogs1a-yhf0ndWMw0-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="500" as="sourcePoint" />
             <mxPoint x="650" y="370" as="targetPoint" />
