@@ -24,6 +24,14 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-4" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="320" width="670" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-sA8ogs1a-yhf0ndWMw0-5" target="-sA8ogs1a-yhf0ndWMw0-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="570" />
+              <mxPoint x="415" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-5" value="mapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="500" width="670" height="50" as="geometry" />
         </mxCell>
