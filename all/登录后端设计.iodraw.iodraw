@@ -46,6 +46,9 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-12" value="ROLE？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="210" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-sA8ogs1a-yhf0ndWMw0-12" target="-sA8ogs1a-yhf0ndWMw0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
