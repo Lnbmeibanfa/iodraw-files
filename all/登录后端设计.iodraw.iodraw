@@ -77,8 +77,11 @@
         <mxCell id="qUGDT7jTcO5gCMjLJ8IM-49" value="self" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qUGDT7jTcO5gCMjLJ8IM-50" value="self" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qUGDT7jTcO5gCMjLJ8IM-50" value="detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="565" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qUGDT7jTcO5gCMjLJ8IM-51" value="chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
