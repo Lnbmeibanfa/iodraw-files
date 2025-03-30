@@ -27,8 +27,14 @@
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-sA8ogs1a-yhf0ndWMw0-5" target="-sA8ogs1a-yhf0ndWMw0-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="599" />
+              <mxPoint x="156" y="600" />
+              <mxPoint x="156" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sA8ogs1a-yhf0ndWMw0-25" value="查询数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-sA8ogs1a-yhf0ndWMw0-24">
+          <mxGeometry x="-0.3957" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sA8ogs1a-yhf0ndWMw0-5" value="mapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
