@@ -40,6 +40,9 @@
         <mxCell id="oWY-ZyQOhPAeEeEWbhy5-10" value="controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="330" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oWY-ZyQOhPAeEeEWbhy5-13" value="api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="330" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
