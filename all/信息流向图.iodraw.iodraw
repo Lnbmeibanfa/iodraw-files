@@ -29,8 +29,16 @@
         <mxCell id="oWY-ZyQOhPAeEeEWbhy5-6" value="service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oWY-ZyQOhPAeEeEWbhy5-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="320" width="330" height="50" as="geometry" />
+        <mxCell id="oWY-ZyQOhPAeEeEWbhy5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWY-ZyQOhPAeEeEWbhy5-10" target="oWY-ZyQOhPAeEeEWbhy5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWY-ZyQOhPAeEeEWbhy5-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWY-ZyQOhPAeEeEWbhy5-11">
+          <mxGeometry x="-0.08" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oWY-ZyQOhPAeEeEWbhy5-10" value="controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
