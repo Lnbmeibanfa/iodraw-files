@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXhPQqMIilisixSi5QCM-29" value="paper_course" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="500" width="250" height="130" as="geometry" />
+          <mxGeometry x="280" y="500" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="TXhPQqMIilisixSi5QCM-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="TXhPQqMIilisixSi5QCM-29">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -129,7 +129,7 @@
         <mxCell id="TXhPQqMIilisixSi5QCM-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TXhPQqMIilisixSi5QCM-29">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TXhPQqMIilisixSi5QCM-37" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TXhPQqMIilisixSi5QCM-36">
+        <mxCell id="TXhPQqMIilisixSi5QCM-37" value="FK2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TXhPQqMIilisixSi5QCM-36">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
