@@ -106,7 +106,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoRQ_DF2SUAbgkqYMQVG-18" value="wechat 微信号" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="IoRQ_DF2SUAbgkqYMQVG-16">
+        <mxCell id="IoRQ_DF2SUAbgkqYMQVG-18" value="wechat 微信号码" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="IoRQ_DF2SUAbgkqYMQVG-16">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -119,7 +119,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IoRQ_DF2SUAbgkqYMQVG-21" value="QQ QQ号码" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="IoRQ_DF2SUAbgkqYMQVG-19">
+        <mxCell id="IoRQ_DF2SUAbgkqYMQVG-21" value="wechat 微信号" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="IoRQ_DF2SUAbgkqYMQVG-19">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
