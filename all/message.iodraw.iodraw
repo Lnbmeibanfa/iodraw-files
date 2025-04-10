@@ -87,12 +87,12 @@
         <mxCell id="isFRvG_9jfl3AqYRtoDs-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="isFRvG_9jfl3AqYRtoDs-17">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="isFRvG_9jfl3AqYRtoDs-22" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="isFRvG_9jfl3AqYRtoDs-21">
+        <mxCell id="isFRvG_9jfl3AqYRtoDs-22" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="isFRvG_9jfl3AqYRtoDs-21">
           <mxGeometry width="20" height="30" as="geometry">
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="isFRvG_9jfl3AqYRtoDs-23" value="send_id 发送者id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="isFRvG_9jfl3AqYRtoDs-21">
+        <mxCell id="isFRvG_9jfl3AqYRtoDs-23" value="paper_id 论文id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="isFRvG_9jfl3AqYRtoDs-21">
           <mxGeometry x="20" width="230" height="30" as="geometry">
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -136,7 +136,7 @@
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="isFRvG_9jfl3AqYRtoDs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isFRvG_9jfl3AqYRtoDs-24" target="isFRvG_9jfl3AqYRtoDs-10">
+        <mxCell id="isFRvG_9jfl3AqYRtoDs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="isFRvG_9jfl3AqYRtoDs-21" target="isFRvG_9jfl3AqYRtoDs-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
