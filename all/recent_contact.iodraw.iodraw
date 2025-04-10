@@ -89,7 +89,7 @@
             <mxRectangle width="20" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOoOFf-rkHy-BYr_2VTa-22" value="receiver_id 接收者id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="tOoOFf-rkHy-BYr_2VTa-20">
+        <mxCell id="tOoOFf-rkHy-BYr_2VTa-22" value="last_message 最后发的一条消息" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="tOoOFf-rkHy-BYr_2VTa-20">
           <mxGeometry x="20" width="230" height="30" as="geometry">
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
