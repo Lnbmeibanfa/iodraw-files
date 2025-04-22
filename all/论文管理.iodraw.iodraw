@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wmvfJL0llr9DOYHp7NcN-1" value="导师端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="60" height="220" as="geometry" />
+          <mxGeometry x="520" y="430" width="60" height="220" as="geometry" />
         </mxCell>
         <mxCell id="wmvfJL0llr9DOYHp7NcN-2" value="学生端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="430" width="60" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wmvfJL0llr9DOYHp7NcN-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
