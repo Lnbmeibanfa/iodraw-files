@@ -16,13 +16,13 @@
         <mxCell id="SeLBsiEr3dEJqNmIDAxN-9" value="&lt;font size=&quot;3&quot;&gt;论文信息浏览和筛选&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SeLBsiEr3dEJqNmIDAxN-10" value="&lt;font size=&quot;3&quot;&gt;学生功能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SeLBsiEr3dEJqNmIDAxN-10" value="&lt;font size=&quot;3&quot;&gt;选择论文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SeLBsiEr3dEJqNmIDAxN-11" value="&lt;font size=&quot;3&quot;&gt;学生功能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SeLBsiEr3dEJqNmIDAxN-11" value="&lt;font size=&quot;3&quot;&gt;收藏论文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="400" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SeLBsiEr3dEJqNmIDAxN-12" value="&lt;font size=&quot;3&quot;&gt;学生功能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SeLBsiEr3dEJqNmIDAxN-12" value="&lt;font size=&quot;3&quot;&gt;在线沟通&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
