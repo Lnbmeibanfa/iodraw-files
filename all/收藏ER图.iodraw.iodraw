@@ -11,16 +11,19 @@
           <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="udeKg4sPwSWd6gxSih6E-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;论文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="udeKg4sPwSWd6gxSih6E-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;学生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="udeKg4sPwSWd6gxSih6E-7" value="&lt;font size=&quot;3&quot;&gt;确定&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="udeKg4sPwSWd6gxSih6E-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;确定&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="udeKg4sPwSWd6gxSih6E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="udeKg4sPwSWd6gxSih6E-7" target="udeKg4sPwSWd6gxSih6E-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
