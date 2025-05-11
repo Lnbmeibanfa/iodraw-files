@@ -13,6 +13,15 @@
         <mxCell id="SeLBsiEr3dEJqNmIDAxN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeLBsiEr3dEJqNmIDAxN-1" target="SeLBsiEr3dEJqNmIDAxN-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SeLBsiEr3dEJqNmIDAxN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeLBsiEr3dEJqNmIDAxN-1" target="SeLBsiEr3dEJqNmIDAxN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeLBsiEr3dEJqNmIDAxN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeLBsiEr3dEJqNmIDAxN-1" target="SeLBsiEr3dEJqNmIDAxN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeLBsiEr3dEJqNmIDAxN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeLBsiEr3dEJqNmIDAxN-1" target="SeLBsiEr3dEJqNmIDAxN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SeLBsiEr3dEJqNmIDAxN-1" value="&lt;font size=&quot;3&quot;&gt;学生功能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
