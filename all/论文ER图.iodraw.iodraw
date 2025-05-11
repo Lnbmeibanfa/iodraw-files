@@ -20,13 +20,16 @@
           <mxGeometry x="330" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aD7qEXq_wVT8lidlT9xB-6" value="&lt;font size=&quot;3&quot;&gt;教师id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="80" height="50" as="geometry" />
+          <mxGeometry x="500" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aD7qEXq_wVT8lidlT9xB-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aD7qEXq_wVT8lidlT9xB-6" target="aD7qEXq_wVT8lidlT9xB-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="460" as="sourcePoint" />
             <mxPoint x="450" y="247" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aD7qEXq_wVT8lidlT9xB-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
