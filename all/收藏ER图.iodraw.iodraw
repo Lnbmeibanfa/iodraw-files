@@ -16,10 +16,10 @@
         <mxCell id="udeKg4sPwSWd6gxSih6E-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;学生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="udeKg4sPwSWd6gxSih6E-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="udeKg4sPwSWd6gxSih6E-7" value="&lt;font size=&quot;3&quot;&gt;决定&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="udeKg4sPwSWd6gxSih6E-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="udeKg4sPwSWd6gxSih6E-8" value="决定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
